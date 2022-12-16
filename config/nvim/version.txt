@@ -1,0 +1,12 @@
+NVIM v0.7.2
+Build type: Release
+LuaJIT 2.1.0-beta3
+Compiled by team+vim@tracker.debian.org
+
+Features: +acl +iconv +tui
+See ":help feature-compile"
+
+   system vimrc file: "$VIM/sysinit.vim"
+  fall-back for $VIM: "/usr/share/nvim"
+
+Run :checkhealth for more info
